@@ -1,2 +1,3 @@
 # Signalisation
+Cette application a été réalisé pour iD.apps.
 MySignalisation est comme son nom l’indique une application de  signalisation, elle permet à un habitant, grâce à une photo géolocalisée  et commentée, de signaler au service de proximité tout incident ou  dégradation dans sa ville.  Si l’utilisateur a par exemple constaté un lampadaire en panne, un  trou dans la chaussée ou alors un banc endommagé, il va pouvoir  déclarer ce fait. Il peut aussi se créer un compte via Facebook ou  Google+ ce qui lui permettra d’avoir un suivi de sa déclaration jusqu’à la  résolution de l’incident, ainsi qu’un historique de tous les événements  déclarés
